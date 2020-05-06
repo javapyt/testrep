@@ -1,3 +1,3 @@
-function defsg(parameter='default'){
+function defsg(parameter='javascript'){
 console.log(parameter)}
 defsg();
