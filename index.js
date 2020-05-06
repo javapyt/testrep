@@ -1,3 +1,3 @@
-function defsg(parameter='javascript'){
+function defsg(parameter='default message'){
 console.log(parameter)}
 defsg();
